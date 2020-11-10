@@ -1,0 +1,17 @@
+body {
+  background-color: bisque;
+}
+.home,
+.counter,
+.posts {
+  text-align: center;
+}
+button {
+  padding: 5px 4px;
+  outline: none;
+  border: 1px solid sienna;
+  background-color: sienna;
+  color: #fff;
+  margin: 5px;
+  cursor: pointer;
+}
